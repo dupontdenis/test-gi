@@ -1,0 +1,6 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(3, 10px);
+    grid-auto-rows: 20px;
+
+}
